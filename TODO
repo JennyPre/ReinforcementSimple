@@ -16,3 +16,8 @@
 
 - PettingZoo - multi-agent version of Gymnasium
 - start with cooperative/competitive games
+
+
+## General
+
+- update visualization in CartPole

@@ -1,0 +1,18 @@
+##  Datasets & Environments
+   
+### For Vision-Based RL:
+
+- Atari Games (via Arcade Learning Environment)
+
+- Pong, Breakout - classic starting points
+- Pixel-based observations, discrete actions
+
+### For Robotics:
+
+- PyBullet environments - free physics simulation
+- Simpler than full robotics, but more realistic than CartPole
+
+### For Multi-Agent (since you're interested in agents):
+
+- PettingZoo - multi-agent version of Gymnasium
+- start with cooperative/competitive games

@@ -214,3 +214,6 @@ comments.md
 ppo_cartpole.zip
 ppo_lunarlander.zip
 tensorboard_logs/
+TODO
+logs/ppo/
+ppo_lunarlander_optimization.db
